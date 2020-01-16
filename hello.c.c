@@ -7,6 +7,8 @@ Date: 2020/14/1
 int main(void) {
 	printf("Brandon Harrell\n");
 	printf("Computer Science\n");
+	printf("Tyler Wolf\n");
+	printf("Electrical Engineering\n")
 	return 0;
 }
 
