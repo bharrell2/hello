@@ -5,7 +5,8 @@ Date: 2020/14/1
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello World!\n");
+	printf("Brandon Harrell\n");
+	printf("Computer Science\n");
 	return 0;
 }
 
